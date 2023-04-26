@@ -385,6 +385,7 @@ $sisdr = \{\}$ -->
 #### 3.实录数据实验结果
 ###### 1.不同性别说话人混合语音提取实验
 录制环境：教室 
+
 录制设备：[ReSpeaker USB Mic Array](https://wiki.seeedstudio.com/ReSpeaker-USB-Mic-Array)
 <div class="image-grid">
   <div class="image-item">
@@ -409,7 +410,9 @@ $sisdr = \{\}$ -->
 
 ###### 2.同性别说话人混合语音提取实验
 录制环境：会议室 
+
 录制设备：[ReSpeaker USB Mic Array](https://wiki.seeedstudio.com/ReSpeaker-USB-Mic-Array)
+
 <div class="image-grid">
   <div class="image-item">
     <img src="expresults/sample3_chensun_090_mix/mix.png">
@@ -432,4 +435,5 @@ $sisdr = \{\}$ -->
 </div>
 
 #### 4.实验总结
+
 在合成数据集上有较好的提取效果，对于实录数据，大部分样本可以明显增强目标说话人语音， 但是对非目标说话人语音的抑制不够充分，可以通过目标语音活动性检测进一步抑制非目标说话人语音片段。
