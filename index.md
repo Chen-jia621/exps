@@ -11,8 +11,12 @@
 
 #### 2.测试集实验结果
 测试语音和验证语音程度为6s
-[<img src="https://github.com/Chen-jia621/exps/blob/master/figs/pikaqiu.png" width="300">](https://github.com/Chen-jia621/exps)
+<!-- [<img src="https://github.com/Chen-jia621/exps/blob/master/figs/pikaqiu.png" width="300">](https://github.com/Chen-jia621/exps) -->
 ###### 1.重叠类型-full(重叠率100%)
+<div class="image-grid>
+
+</div>
+
 
 ###### 2.重叠类型-front(重叠率30%)
 
