@@ -384,7 +384,7 @@ $sisdr = \{\}$ -->
 
 #### 3.实录数据实验结果
 ###### 1.不同性别说话人混合语音提取实验
-录制环境：教室
+录制环境：教室 
 录制设备：[ReSpeaker USB Mic Array](https://wiki.seeedstudio.com/ReSpeaker-USB-Mic-Array)
 <div class="image-grid">
   <div class="image-item">
@@ -408,7 +408,7 @@ $sisdr = \{\}$ -->
 </div>
 
 ###### 2.同性别说话人混合语音提取实验
-录制环境：会议室
+录制环境：会议室 
 录制设备：[ReSpeaker USB Mic Array](https://wiki.seeedstudio.com/ReSpeaker-USB-Mic-Array)
 <div class="image-grid">
   <div class="image-item">
